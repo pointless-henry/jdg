@@ -98,6 +98,8 @@
     К тому же я не уверен, что если идти этим путём, то здесь нужно указывать składki spoleczne (1646.47 zł), а не składki spoleczne БЕЗ fundusz pracy (1646.47 - 127.49 = 1518.98 zł).
     Буду признателен, если кто-то проверит и внесёт изменения.
 
+    ![18]
+
 1. Нажимаем Start → ZUS;
 2. Нажимаем Dodaj deklarację;
 3. Сразу же wFirma задаёт несколько важных вопросов:
@@ -175,3 +177,4 @@
 [15]: images/wfirma_migration/zus_dra_wysłana_uwaga.png
 [16]: images/wfirma_migration/pit_zaliczka_dodawanie_płaności.png
 [17]: support.md
+[18]: images/wfirma_migration/cat.jpg
